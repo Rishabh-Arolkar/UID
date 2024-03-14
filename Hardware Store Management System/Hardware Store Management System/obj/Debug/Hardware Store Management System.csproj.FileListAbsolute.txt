@@ -1,0 +1,44 @@
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\Hardware Store Management System.exe
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\MySql.Data.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\Hardware Store Management System.exe.config
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\BouncyCastle.Cryptography.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\Google.Protobuf.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\K4os.Compression.LZ4.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\K4os.Hash.xxHash.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.Buffers.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.IO.Pipelines.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.Memory.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.Numerics.Vectors.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\ZstdSharp.dll
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\BouncyCastle.Cryptography.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\Google.Protobuf.pdb
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\Google.Protobuf.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\K4os.Compression.LZ4.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\K4os.Hash.xxHash.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\MySql.Data.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.Buffers.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.IO.Pipelines.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.Memory.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.Numerics.Vectors.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\obj\Debug\Hardware Store Management System.csproj.AssemblyReference.cache
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\obj\Debug\Hardware_Store_Management_System.Form1.resources
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\obj\Debug\Hardware_Store_Management_System.Items.resources
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\obj\Debug\Hardware_Store_Management_System.Properties.Resources.resources
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\obj\Debug\Hardware Store Management System.csproj.GenerateResource.cache
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\obj\Debug\Hardware Store Management System.csproj.CoreCompileInputs.cache
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\obj\Debug\Hardware Store Management System.csproj.CopyComplete
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\obj\Debug\Hardware Store Management System.exe
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\obj\Debug\Hardware Store Management System.pdb
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\bin\Debug\Hardware Store Management System.pdb
+D:\WinForms\Hardware Store Management System\Hardware Store Management System\obj\Debug\Hardware_Store_Management_System.Distributors.resources
